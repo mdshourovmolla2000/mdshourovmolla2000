@@ -1,7 +1,7 @@
 <p align="center"><img src="images/android-developer-banner.png" alt="Banner"/></p>
 
 <h1 align="center">Hi, I'm MD Shourov Molla</h1>
-<h3 align="center">Android app developer from Bangladesh</h3>
+<h3 align="center">Android App Developer from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdshourovmolla2000&label=Profile%20views&color=0e75b6&style=flat" alt="mdshourovmolla2000" /> </p>
 
