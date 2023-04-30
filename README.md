@@ -3,12 +3,13 @@
 <h1 align="center">Hi, I'm MD Shourov Molla</h1>
 <h3 align="center">Android App Developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdshourovmolla2000&label=Profile%20views&color=0e75b6&style=flat" alt="mdshourovmolla2000" /> </p>
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=mdshourovmolla2000&icon=5&color=0" alt="mdshourovmolla2000" /> </p>
 
 
-- 📫 How to reach me **mdshourovmola2000@gmail.com**
+- 📫 How to reach me **mdshourovmolla2000@gmail.com**
 
-<h3 align="left">Connect with me: &nbsp; &nbsp;<a href="https://fb.com/mdshourovmolla2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdshourovmolla2000" height="30" width="40" /></a></h3>
+## 🌐 Connect with me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdshourovmolla2000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdshourovmolla2000) 
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
@@ -31,6 +32,7 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
 </p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshourovmolla2000&show_icons=true&locale=en&layout=compact" alt="mdshourovmolla2000" /></p>
+# 📊 GitHub Stats:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshourovmolla2000&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="mdshourovmolla2000" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=mdshourovmolla2000&show_icons=true&locale=en" alt="mdshourovmolla2000" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mdshourovmolla2000&theme=gotham&hide_border=false&include_all_commits=true&count_private=false" alt="mdshourovmolla2000" /></p>
