@@ -9,6 +9,7 @@
 - 📫 How to reach me **mdshourovmolla2000@gmail.com**
 
 ## 🌐 Connect with me:
+<a href="https://facebook.com/mdshourovmolla2000" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdshourovmolla2000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdshourovmolla2000) 
 
 <h2 align="left">Languages and Tools:</h2>
