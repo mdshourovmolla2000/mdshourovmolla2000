@@ -3,13 +3,15 @@
 <h1 align="center">Hi, I'm MD Shourov Molla</h1>
 <h3 align="center">Android App Developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=mdshourovmolla2000&icon=5&color=0" alt="mdshourovmolla2000" /> </p>
+<!-- <p align="center"> <img src="https://visitcount.itsvg.in/api?id=mdshourovmolla2000&icon=5&color=0" alt="mdshourovmolla2000" /> </p> -->
 
+&nbsp;
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://facebook.com/mdshourovmolla2000) 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/mdshourovmolla2000) 
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:mdshourovmolla2000@gmail.com) 
 
+&nbsp;
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639" alt="android"/>
@@ -32,6 +34,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 </p>
 
+&nbsp;
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdshourovmolla2000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
