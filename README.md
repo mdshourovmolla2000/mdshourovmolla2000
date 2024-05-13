@@ -1,6 +1,6 @@
 <p align="center"><img src="images/android-developer-banner.png" alt="Banner"/></p>
 
-<h1 align="center">Hi, I'm MD Shourov Molla</h1>
+<h1 align="center">Hi, I'm Md Shourov Molla</h1>
 <h3 align="center">Android App Developer from Bangladesh</h3>
 
 <!-- <p align="center"> <img src="https://visitcount.itsvg.in/api?id=mdshourovmolla2000&icon=5&color=0" alt="mdshourovmolla2000" /> </p> -->
